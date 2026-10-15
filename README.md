@@ -1,4 +1,4 @@
-# legible-outputs
+# karpathy-legible-outputs
 
 A Claude skill that picks the output format that makes a topic easiest to understand, instead of defaulting to dense prose.
 
@@ -11,7 +11,7 @@ It works up a ladder of formats:
 
 ## Install
 
-Copy `SKILL.md` into a folder named `legible-outputs` in your skills directory, or upload the packaged `.skill` file in Claude.
+Copy `SKILL.md` into a folder named `karpathy-legible-outputs` in your skills directory, or upload the packaged `.skill` file in Claude.
 
 ## Why
 

@@ -1,5 +1,5 @@
 ---
-name: legible-outputs
+name: karpathy-legible-outputs
 description: Choose and produce the output format that makes a topic easiest to understand and oversee, instead of defaulting to dense prose. Use whenever the user asks to explain, teach, walk through, summarize, or help them understand something (a codebase, an agent's behavior, a paper, a system, a concept, a model's output), or says an earlier answer was hard to read, too dense, or hard to follow. Also use when they ask for "ASD-STE100", "simple English", "a diagram", "an HTML explainer", "an interactive page", or "a 3b1b-style / explainer video". Make sure to use this skill even if they only say "help me understand X" or "explain this to me", because the right format matters as much as the content.
 ---
 
